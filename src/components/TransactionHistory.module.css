@@ -20,6 +20,7 @@
 
 .row {
   background-color: #fff;
+  color: black;
 }
 
 .row:nth-child(even) {
